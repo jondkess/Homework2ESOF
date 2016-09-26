@@ -49,6 +49,11 @@ namespace Homework2ESOF
 
         public int[] bubbleSort(int[] arrToSort)
         {
+            if (arrToSort.Length <= 1)
+            {
+                return arrToSort;
+            }
+
             Boolean isChanged = false;
             int a;
             int b;
@@ -75,12 +80,86 @@ namespace Homework2ESOF
 
         public int[] insertSort(int[] arrToSort)
         {
+            if (arrToSort.Length <= 1)
+            {
+                return arrToSort;
+            }
+
+            for (int i = 1; i < arrToSort.Length; i++)
+            {
+                int j = i;
+
+                while((j>0) && (arrToSort[j] < arrToSort[j - 1]))
+                {
+                    int k = j - 1;
+                    int temp = arrToSort[k];
+                    arrToSort[k] = arrToSort[j];
+                    arrToSort[j] = temp;
+
+                    j--;
+                }
+            }
             return arrToSort;
         }
 
         public int[] mergeSort(int[] arrToSort)
         {
-            return arrToSort;
+            if (arrToSort.Length <= 1)
+            {
+                return arrToSort;
+            }
+
+            int middle = arrToSort.Length / 2;
+            int[] left = new int[middle];
+            int[] right = new int[arrToSort.Length - middle];
+
+            Array.Copy(arrToSort, left, middle);
+            Array.Copy(arrToSort, middle, right, 0, right.Length);
+
+            left = mergeSort(left);
+            right = mergeSort(right);
+
+            return merge(left, right);
+        }
+
+        public static int[] merge(int[] left, int[] right)
+        {
+            List<int> leftList = left.OfType<int>().ToList();
+            List<int> rightList = right.OfType<int>().ToList();
+            List<int> resultList = new List<int>();
+
+            while (leftList.Count > 0 || rightList.Count > 0)
+            {
+                if (leftList.Count > 0 && rightList.Count > 0)
+                {
+                    if (leftList[0] <= rightList[0])
+                    {
+                        resultList.Add(leftList[0]);
+                        leftList.RemoveAt(0);
+                    }
+
+                    else
+                    {
+                        resultList.Add(rightList[0]);
+                        rightList.RemoveAt(0);
+                    }
+                }
+
+                else if (leftList.Count > 0)
+                {
+                    resultList.Add(leftList[0]);
+                    leftList.RemoveAt(0);
+                }
+
+                else if (rightList.Count > 0)
+                {
+                    resultList.Add(rightList[0]);
+                    rightList.RemoveAt(0);
+                }
+            }
+
+            int[] result = resultList.ToArray();
+            return result;
         }
     }
 }

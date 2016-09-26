@@ -19,3 +19,9 @@ F:\Documents\Classes\Git\hw2Esof\Homework2ESOF\obj\Debug\Homework2ESOF.Propertie
 F:\Documents\Classes\Git\hw2Esof\Homework2ESOF\obj\Debug\Homework2ESOF.csproj.GenerateResource.Cache
 F:\Documents\Classes\Git\hw2Esof\Homework2ESOF\bin\Debug\Homework2ESOF.exe
 F:\Documents\Classes\Git\hw2Esof\Homework2ESOF\bin\Debug\Homework2ESOF.pdb
+C:\Users\David\Documents\Classes\ESOF\Homework2ESOF\Homework2ESOF\bin\Debug\Homework2ESOF.exe
+C:\Users\David\Documents\Classes\ESOF\Homework2ESOF\Homework2ESOF\bin\Debug\Homework2ESOF.pdb
+C:\Users\David\Documents\Classes\ESOF\Homework2ESOF\Homework2ESOF\obj\Debug\Homework2ESOF.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Classes\ESOF\Homework2ESOF\Homework2ESOF\obj\Debug\Homework2ESOF.Form1.resources
+C:\Users\David\Documents\Classes\ESOF\Homework2ESOF\Homework2ESOF\obj\Debug\Homework2ESOF.Properties.Resources.resources
+C:\Users\David\Documents\Classes\ESOF\Homework2ESOF\Homework2ESOF\obj\Debug\Homework2ESOF.csproj.GenerateResource.Cache
