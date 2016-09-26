@@ -1,0 +1,12 @@
+C:\Users\David\Source\Workspaces\Compiler\Homework2ESOF\Homework2ESOF\bin\Debug\Homework2ESOF.exe.config
+C:\Users\David\Source\Workspaces\Compiler\Homework2ESOF\Homework2ESOF\obj\Debug\Homework2ESOF.csprojResolveAssemblyReference.cache
+C:\Users\David\Source\Workspaces\Compiler\Homework2ESOF\Homework2ESOF\obj\Debug\Homework2ESOF.Form1.resources
+C:\Users\David\Source\Workspaces\Compiler\Homework2ESOF\Homework2ESOF\obj\Debug\Homework2ESOF.Properties.Resources.resources
+C:\Users\David\Source\Workspaces\Compiler\Homework2ESOF\Homework2ESOF\obj\Debug\Homework2ESOF.csproj.GenerateResource.Cache
+C:\Users\David\Source\Workspaces\Compiler\Homework2ESOF\Homework2ESOF\bin\Debug\Homework2ESOF.exe
+C:\Users\David\Source\Workspaces\Compiler\Homework2ESOF\Homework2ESOF\bin\Debug\Homework2ESOF.pdb
+C:\Users\David\Source\Workspaces\Compiler\Homework2ESOF\Homework2ESOF\obj\Debug\Homework2ESOF.exe
+C:\Users\David\Source\Workspaces\Compiler\Homework2ESOF\Homework2ESOF\obj\Debug\Homework2ESOF.pdb
+C:\Users\David\Documents\Classes\ESOF\Homework2ESOF\Homework2ESOF\bin\Debug\Homework2ESOF.exe.config
+C:\Users\David\Documents\Classes\ESOF\Homework2ESOF\Homework2ESOF\obj\Debug\Homework2ESOF.exe
+C:\Users\David\Documents\Classes\ESOF\Homework2ESOF\Homework2ESOF\obj\Debug\Homework2ESOF.pdb
