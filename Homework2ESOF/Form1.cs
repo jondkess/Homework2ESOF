@@ -26,10 +26,6 @@ namespace Homework2ESOF
             this.selectedTool = this.mTool;
 
             InitializeComponent();
-            //foreach (var sort in Enum.GetValues(typeof(Sort)))
-            //{
-            //    comboBox2.Items.Add(sort);
-            //}
             comboBox2.DataSource = Enum.GetValues(typeof(Sort));
             comboBox1.DataSource = tools;
         }
