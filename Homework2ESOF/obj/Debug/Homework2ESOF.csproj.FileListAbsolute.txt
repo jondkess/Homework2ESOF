@@ -10,3 +10,12 @@ C:\Users\David\Source\Workspaces\Compiler\Homework2ESOF\Homework2ESOF\obj\Debug\
 C:\Users\David\Documents\Classes\ESOF\Homework2ESOF\Homework2ESOF\bin\Debug\Homework2ESOF.exe.config
 C:\Users\David\Documents\Classes\ESOF\Homework2ESOF\Homework2ESOF\obj\Debug\Homework2ESOF.exe
 C:\Users\David\Documents\Classes\ESOF\Homework2ESOF\Homework2ESOF\obj\Debug\Homework2ESOF.pdb
+F:\Documents\Classes\Git\hw2Esof\Homework2ESOF\bin\Debug\Homework2ESOF.exe.config
+F:\Documents\Classes\Git\hw2Esof\Homework2ESOF\obj\Debug\Homework2ESOF.exe
+F:\Documents\Classes\Git\hw2Esof\Homework2ESOF\obj\Debug\Homework2ESOF.pdb
+F:\Documents\Classes\Git\hw2Esof\Homework2ESOF\obj\Debug\Homework2ESOF.csprojResolveAssemblyReference.cache
+F:\Documents\Classes\Git\hw2Esof\Homework2ESOF\obj\Debug\Homework2ESOF.Form1.resources
+F:\Documents\Classes\Git\hw2Esof\Homework2ESOF\obj\Debug\Homework2ESOF.Properties.Resources.resources
+F:\Documents\Classes\Git\hw2Esof\Homework2ESOF\obj\Debug\Homework2ESOF.csproj.GenerateResource.Cache
+F:\Documents\Classes\Git\hw2Esof\Homework2ESOF\bin\Debug\Homework2ESOF.exe
+F:\Documents\Classes\Git\hw2Esof\Homework2ESOF\bin\Debug\Homework2ESOF.pdb
